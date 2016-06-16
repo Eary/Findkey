@@ -1,0 +1,7 @@
+F:\Project\Findkey\Findkey\bin\Debug\Findkey.exe
+F:\Project\Findkey\Findkey\bin\Debug\Findkey.pdb
+F:\Project\Findkey\Findkey\obj\Debug\Findkey.Main.resources
+F:\Project\Findkey\Findkey\obj\Debug\Findkey.Properties.Resources.resources
+F:\Project\Findkey\Findkey\obj\Debug\Findkey.csproj.GenerateResource.Cache
+F:\Project\Findkey\Findkey\obj\Debug\Findkey.exe
+F:\Project\Findkey\Findkey\obj\Debug\Findkey.pdb
